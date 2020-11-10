@@ -1,0 +1,28 @@
+{
+  "name": "sample-reactjs-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12devs/sample-reactjs-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12devs/sample-reactjs-dashboard/issues"
+  },
+  "homepage": "https://github.com/12devs/sample-reactjs-dashboard#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "reactjs": "^1.0.0",
+    "redux": "^4.0.5"
+  }
+}

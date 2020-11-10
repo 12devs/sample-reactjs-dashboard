@@ -1,0 +1,36 @@
+.toolsPanel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 35px;
+}
+
+.stretch {
+    display: flex;
+    align-self: stretch;
+}
+
+hr {
+    margin-left: 0;
+    margin-right: 0;
+    border-color: #858587;
+}
+
+i {
+    margin: 1px;
+}
+
+.iconButton {
+    background-color: transparent;
+    border: none;
+    color: #858587;
+    cursor: pointer;
+    outline: none;
+}
+
+.iconButton:hover {
+    color: #c6c6c7;
+}
+
+

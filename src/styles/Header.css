@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #26252a;
+    height: 35px;
+}

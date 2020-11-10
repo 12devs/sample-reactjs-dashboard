@@ -1,0 +1,8 @@
+.lSidebar{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    background-color: #26252a;
+    height: 100vh;
+    width: 35px;
+}
